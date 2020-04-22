@@ -13,7 +13,8 @@ to start coding on a .NET Coding School.
 ## .NET Development Tools
 
 1.  **[Visual Studio Community Edition](https://visualstudio.microsoft.com/vs/community/)**
-Make sure to install the workloads shown in red below:
+
+During the installation select the workloads shown in red, below:
 
     ![workloads selection](images/vs-installation.png)
 
