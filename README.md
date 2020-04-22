@@ -37,6 +37,7 @@ Make sure to install the workloads shown in red below:
 
 ## Other development tools
 
+1. **[Github account](https://github.com/join)**
 1. **[Git Version Control](https://git-scm.com/downloads)**
 1. **[Docker](https://www.docker.com/products/docker-desktop)**
     - After the installation, ensure that you've activated Linux containers (instead of Windows):
