@@ -16,7 +16,7 @@ to start coding on a .NET Coding School.
 
 During the installation select the workloads shown in red, below:
 
-    ![workloads selection](images/vs-installation.png)
+![workloads selection](images/vs-installation.png)
 
 2.  [VS Code](https://code.visualstudio.com/)
 
@@ -28,11 +28,16 @@ During the installation select the workloads shown in red, below:
     ```bash
     docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=admin!@#123" -p 1433:1433 --name sql1 -d mcr.microsoft.com/mssql/server:2019-CU3-ubuntu-18.04
     ```
-    - A new SQL Server instance will be created and you can access it by using:
-        
+    - A new SQL Server instance will be created and you can access it using SQL Server Management Studio by using:
+
+        Server name: `localhost`,
+
+        Authentication: `SQL Server authentication`
+
         Username: `sa`
 
         Password: `admin!@#123`
+        
 1.  [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15) 
     **or** [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15)
 
