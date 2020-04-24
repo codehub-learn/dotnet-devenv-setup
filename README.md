@@ -30,14 +30,14 @@ During the installation select the workloads shown in red, below:
     ```
     - A new SQL Server instance will be created and you can access it using SQL Server Management Studio by using:
 
-        Server name: `localhost`,
+        Server name: `localhost`
 
         Authentication: `SQL Server authentication`
 
         Username: `sa`
 
         Password: `admin!@#123`
-        
+
 1.  [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15) 
     **or** [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15)
 
